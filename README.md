@@ -1,5 +1,6 @@
 # Raqeeb 🚀  
-![Build]((https://tatweeer-2.vercel.app/)) 
+![Build](https://img.shields.io/badge/build-passing-green)  
+
 
 
 
