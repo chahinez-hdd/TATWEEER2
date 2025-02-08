@@ -84,7 +84,6 @@ const alerts = [
 
 export function AlertsTable() {
   const [selectedAlert, setSelectedAlert] = useState(null)
-  const router = useRouter()
 
   return (
     <>

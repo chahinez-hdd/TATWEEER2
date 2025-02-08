@@ -3,7 +3,6 @@ import { useState } from "react"
 import { Sidebar } from "@/components/sidebar"
 import { DeliveryMap } from "@/components/delivery-map"
 import { DeliveryCard } from "@/components/delivery-card"
-import { Search } from "lucide-react"
 
 const deliveries = [
   {
