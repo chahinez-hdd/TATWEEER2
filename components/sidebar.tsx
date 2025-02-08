@@ -26,7 +26,7 @@ export function Sidebar() {
   return (
     <div className="w-64 border-r bg-background flex flex-col h-screen">
       <div className="flex items-center gap-2 px-4 border-b">
-        <img src="/img/logo.png" alt="logo" className="w-full" />
+        <img src="/img/Logo.png" alt="logo" />
       </div>
       <nav className="space-y-3 p-2 flex-1">
 
